@@ -11,7 +11,10 @@ Fecha: 15-11-2022
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
-![CarmenSanDiego](https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR)
+![drawing](https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR)
+
+
+<img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="drawing" width="200"/>
 
 
 ## Planteamiento
