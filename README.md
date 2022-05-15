@@ -18,7 +18,7 @@ Fecha: 15-11-2022
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-## Re-descubriendo la hibridacion: Caso 1
+## Caso 1: Carmen Sandiego - El robo de las joyas de la corona
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
             </div>  
             
 
-## Re-descubriendo la hibridacion: Caso 2
+## Caso 2: iNaturalist
 
 iNaturalist es un caso de hibridación, concretamente de un mashup de datos, que crea nuevos servicios combinando datos de más de una fuente (Google Maps, Catálogo de la Vida, uBio, Flickr, Wikimedia Commons…) generando un valor añadido con una interfaz bastante simplificada. 
 
@@ -61,13 +61,17 @@ En este caso la estética del medio nos lleva a ver la yuxtaposición de las im�
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
-* ADELL, Ferran. **Remediación, multimedia e hibridación de los medios** [en línea]. Blog de la asignatura Fundamentos y evolución de la multimedia del Grado de Multimedia de la Universitat Oberta de Catalunya, 16/04/2014. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/ ↩
+* ADELL, Ferran. **Remediación, multimedia e hibridación de los medios** [en línea]. Blog de la asignatura Fundamentos y evolución de la multimedia del Grado de Multimedia de la Universitat Oberta de Catalunya, 16/04/2014. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/ 
 
 * Medium (2018). **Los nuevos medios — Manovic explica la evolución de la computadora hacia sus orígenes**  https://medium.com/@rodrigo.rebagliati/los-nuevos-medios-manovic-explica-la-evoluci%C3%B3n-de-la-computadora-hacia-sus-or%C3%ADgenes-788fde58d458 
 
+* **Carmen Sandiego** (Wikipedia), Recuperado el 13 d eenero de 2022, de https://es.wikipedia.org/wiki/Carmen_Sandiego#Where_on_Earth_Is_Carmen_Sandiego?
+
+* **Google Earth** (Wikipedia), Recuperado el 27 de abril de 2022, de https://en.wikipedia.org/wiki/Google_Earth
+
 * iNaturalist, Recuperado el 15 de mayo de 2022, de https://www.inaturalist.org
 
-* iNaturalist (Wikipedia), Recuperado el 15 de enero de 2022, de https://es.wikipedia.org/wiki/INaturalist
+* **iNaturalist** (Wikipedia), Recuperado el 15 de enero de 2022, de https://es.wikipedia.org/wiki/INaturalist
 
 * Difusión Norte (2018). **NaturaLista, itoma fotos de especies silvestres y ayuda a identificarlas!** https://clasico.difusionnorte.com/naturalista-app/
 
