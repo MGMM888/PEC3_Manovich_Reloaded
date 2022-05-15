@@ -29,6 +29,10 @@ La experiencia de usar cada uno de ellos por separado no será la misma que util
 
 Carmen Sandiego es un personaje de videojuego, caracterizada por ir vestida con gabardina y sombrero rojos y que en su origen era una ladrona de guante blanco. El jugador es un detective que debe atrapar a Carmen y para ello visita la ciudad donde se ha producido el robo y debe resolver las pistas que se le presentan. 
 
+
+<div class="col-2" align="center"><img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="Carmencita" wwidth="400" height="400"/></div> 
+
+
 Google Earth incorpora una representación de la Tierra en formato tridimensional, denominada globo virtual, que proporciona al usuario la capacidad de moverse libremente en el entorno virtual simplemente moviendo el cursor por el globo. Además, posee la función “Voyager”, dónde puedes descubrir historias sobre lugares concretos o participar en pequeños juegos (cuestionarios breves y trivial) Y es aquí dónde nos encontramos con “Carmen Sandiego” y su serie de tres juegos, siendo “El robo de las joyas de la corona” el primero de ellos.
 
 El objetivo de la propuesta continúa siendo la original, un juego educativo de geografía en el que el jugador viaja por el mundo a la captura de un ladrón y resolviendo pistas sobre geografía, pero esta vez Carmen no es la ladrona, sino que colabora con el usuario en la captura del verdadero ladrón.
