@@ -6,7 +6,7 @@
 Autor: María Guadalupe Montes Medina
 
 
-Fecha: 15-11-2022
+Fecha: 15-05-2022
 
 
 <div class="col-1" align="center"><img src="https://miro.medium.com/max/1400/0*kih7VlMzi2rzh2WH.jpg" alt="HibridaciónManovic" wwidth="300" height="300"/></div> 
