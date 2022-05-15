@@ -14,7 +14,7 @@ Fecha: 15-11-2022
 ![drawing](https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR)
 
 
-<img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="drawing" wwidth="600" height="600"/>
+<img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="drawing" wwidth="300" height="300"/>
 
 
 ## Planteamiento
