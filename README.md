@@ -9,8 +9,6 @@ Autor: María Guadalupe Montes Medina
 Fecha: 15-11-2022
 
 
-![HibridacionManovic](https://miro.medium.com/max/1400/0*kih7VlMzi2rzh2WH.jpg)
-
 <div class="col-1" align="center"><img src="https://miro.medium.com/max/1400/0*kih7VlMzi2rzh2WH.jpg" alt="HibridaciónManovic" wwidth="300" height="300"/></div> 
 
 ![CarmenSanDiego](https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR)
