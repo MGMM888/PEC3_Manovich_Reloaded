@@ -25,7 +25,7 @@ La experiencia de usar cada uno de ellos por separado no será la misma que util
 
 ## Caso 1: Carmen Sandiego - El robo de las joyas de la corona
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Carmen Sandiego es un videojuego educativo para primaria cuyo objetivo original era enseñar conceptos básicos de geografía. Y en 2019 lanzó una versión para Google Earth. Estaríamos frente a una hibridación entre un producto gráfico, el videojuego, y un sistema de información geográfica, Google Earth.
 
 <div class="col-2" align="center"><img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="Carmencita" wwidth="400" height="400"/></div> 
 <div class="col-2" align="center">
