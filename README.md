@@ -41,6 +41,14 @@ Google Earth incorpora una representación de la Tierra en formato tridimensiona
 El objetivo de la propuesta continúa siendo la original, un juego educativo de geografía en el que el jugador viaja por el mundo a la captura de un ladrón y resolviendo pistas sobre geografía, pero esta vez Carmen no es la ladrona, sino que colabora con el usuario en la captura del verdadero ladrón.
 
 
+
+
+https://cdn.vox-cdn.com/thumbor/FpgJzDQeHKHlhn4iVeV2pc6xGPM=/0x0:1821x1124/920x613/filters:focal(766x417:1056x707):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63230643/Carmen_Game.max_1000x1000.0.png
+
+
+
+
+
 ## Caso 2: iNaturalist
 
 iNaturalist es un caso de hibridación, concretamente de un mashup de datos, que crea nuevos servicios combinando datos de más de una fuente (Google Maps, Catálogo de la Vida, uBio, Flickr, Wikimedia Commons…) generando un valor añadido con una interfaz bastante simplificada. 
@@ -84,7 +92,7 @@ En definitiva, iNaturalist es una aplicación muy sencilla de manejar, con multi
 
 * **Carmen Sandiego - El robo de las joyas de la corona** [En línea]. Disponible en: https://earth.google.com/web/@17.90693717,-12.41937117,-34606.6327455a,57359668.97d,35y,0.00004064h,18.19296234t,0r/data=CjwSOhIgYmU3N2ZmYzU0MTc1MTFlOGFlOGZkMzdkYTU5MmE0MmEiFnNwbC14LXgteC1zcGxhc2hzY3JlZW4
 
-* **Carmen Sandiego** (Wikipedia), Recuperado el 13 d eenero de 2022, de https://es.wikipedia.org/wiki/Carmen_Sandiego#Where_on_Earth_Is_Carmen_Sandiego?
+* The Verge (2019) . **Now you can try to catch Carmen Sandiego in Google Earth** https://www.theverge.com/2019/3/13/18263754/google-earth-carmen-sandiego-where-in-the-world
 
 * **Google Earth** (Wikipedia), Recuperado el 27 de abril de 2022, de https://en.wikipedia.org/wiki/Google_Earth
 
