@@ -11,10 +11,14 @@ Fecha: 15-11-2022
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
-![drawing](https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR)
+![CarmenSanDiego](https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR)
+img[alt="CarmenSanDiego"] { 
+  max-width:  20px;
+  text-align center;
+  display: block;
+}
 
-
-<img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="drawing" text-align center wwidth="300" height="300"/>
+<img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="drawing" wwidth="300" height="300"/>
 
 
 
