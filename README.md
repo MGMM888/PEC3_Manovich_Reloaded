@@ -14,7 +14,7 @@ Fecha: 15-11-2022
 ![CarmenSanDiego](https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR)
 
 
-<div align="center"><img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="Carmencita" wwidth="300" height="300"/></div> 
+<div align="center"><img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="Carmencita" wwidth="300" height="300"/>p1 align="bottom">Cachimba Pequeña Azul</p1></div> 
   
 
 
