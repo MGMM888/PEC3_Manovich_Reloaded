@@ -72,6 +72,8 @@ En este caso la estética del medio nos lleva a ver la yuxtaposición de las im�
 
 * Difusión Norte (2018). **NaturaLista, itoma fotos de especies silvestres y ayuda a identificarlas!** https://clasico.difusionnorte.com/naturalista-app/
 
+* About [En línea]. Disponible en: https://github.com
+
 * **Sintaxis Markdown**. Recuperado el 15 de mayo de 2022, de https://markdown.es/sintaxis-markdown/
 ----
 
