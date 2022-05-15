@@ -12,13 +12,13 @@ Fecha: 15-11-2022
 
 
 ![CarmenSanDiego](https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR)
-img[alt="CarmenSanDiego"] { 
-  max-width:  10px;
+
+
+<img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="Carmencita" wwidth="300" height="300"/>
+<img[alt="CarmenSanDiego"] { 
   text-align center;
-}
-
-<img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="drawing" wwidth="300" height="300"/>
-
+  display block;
+}>
 
 
 ## Planteamiento
