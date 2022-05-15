@@ -16,8 +16,8 @@ Fecha: 15-11-2022
 ![CarmenSanDiego](https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR)
 
 
-<div class="col-4" align="center"><img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="Carmencita" wwidth="300" height="300"/></div> 
-<div class="col-4" align="center">
+<div class="col-2" align="center"><img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="Carmencita" wwidth="300" height="300"/></div> 
+<div class="col-2" align="center">
               <p>Cachimba Pequeña Azul</p>
             </div>  
 
@@ -45,6 +45,8 @@ Los usuarios suben fotografías o grabaciones de las especies que localizan y la
 Si se quiere realizar la observación de un área determinada, se puede crear un proyecto en el que se defina el lugar. Si ya existe, pues se utiliza la delimitación existente, pero si no existe se puede crear lo que denominan “polígono”, que es delimitar un área para estudio. Y para ese proyecto se suben las fotografías y las grabaciones. El proyecto también queda a disposición tanto de la comunidad científica como de los ciudadanos para su consulta. 
 
 Además, dispone de una aplicación para dispositivos móviles denominada Seek, mediante la cual, el usuario escanea con su cámara una especie (por ejemplo: una planta o un animal) y retorna toda la información disponible al respecto, tanto las fotografías, grabaciones, como la información extraída de las bases de datos documentales a las que recurre iNaturalist, como el mapa con las localizaciones exactas dónde se ha observado. 
+
+<div class="col-3" align="center"><iframe width="854" height="480" src="https://www.youtube.com/embed/i56_R8z1N28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Seek utiliza algoritmos bastante precisos de IA para localizar la especie en sus bases de datos partiendo de la imagen escaneada. Como nos comenta Manovic, esto es posible por las nuevas estructuras de datos que estamos usando, en nuestro caso las imágenes se estructuran en píxeles y los algoritmos operan sobre la cuadricula de píxeles (mapa de bits). Esta técnica de manipulación de datos no tiene equivalente en los medios físicos (fotografías, grabaciones…).
 
