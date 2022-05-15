@@ -58,6 +58,7 @@ En el caso de esta hibridación, en la estética del medio queda patente la yuxt
 <br>
 
 Desconocía el juego, pero lo he probado y me ha encantado, obviamente no tiene un gran nivel de complejidad, pero es interesante. Con el ritmo de evolución de los medios que llevamos quién sabe si en unos años las preguntas sobre geografía las realiza un bot lo suficientemente avanzado para poder generar una experiencia/aventura única para cada usuario en función de la edad. Sería una gran hibridación.
+
 <br>
 
 ## Caso 2: iNaturalist
