@@ -45,24 +45,21 @@ El objetivo de la propuesta continúa siendo la original, un juego educativo de 
 Esta fusión del videojuego y el globo virtual de Google Earth se nos presenta como una hibridación de interfaz. En las primeras imágenes del juego se nos muestra el globo virtual integrado con la estética del juego. El usuario debe responder la pista y escoger una ciudad a la que viajar tras el ladrón. Al escoger la ciudad, el globo se moviliza y nos lleva mediante aproximación a la ciudad escogida. 
 
 <br>
-<div class="col-3" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2019/03/sshot-81-730x427.jpg" alt="Carmen Sandiego globo virtual" wwidth="400" height="400"/></div> 
+<div class="col-4" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2019/03/sshot-81-730x427.jpg" alt="Carmen Sandiego globo virtual" wwidth="400" height="400"/></div> 
 <br>
 
 A este movimiento del globo se le aplica la técnica de animación Google Earth Studio, en la que utilizan las imágenes en 2D y 3D que tiene en su base de datos para simular el movimiento del globo y los acercamientos y alejamientos de las localizaciones. Esta técnica es una novedad respecto al videojuego original en el que la Tierra era un mapa plano. 
 
-En el caso de esta hibridación, en la estética del medio queda patente la yuxtaposición de las imágenes de Google Earth y las del videojuego, quedando la pantalla dividida prácticamente a la mitad, siendo que ambas herramientas ocupan cada una su mitad. 
-En cuanto al videojuego se utilizan técnicas y herramientas actuales pero manteniendo la estética del juego original. 
+En el caso de esta hibridación, en la estética del medio queda patente la yuxtaposición de las imágenes de Google Earth y las del videojuego, quedando la pantalla dividida prácticamente a la mitad, siendo que ambas herramientas ocupan cada una su mitad. En cuanto al videojuego se utilizan técnicas y herramientas actuales pero manteniendo la estética del juego original. 
 
-<br>
-<div class="col-4" align="center"><img src="https://cdn.vox-cdn.com/thumbor/FpgJzDQeHKHlhn4iVeV2pc6xGPM=/0x0:1821x1124/920x613/filters:focal(766x417:1056x707):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63230643/Carmen_Game.max_1000x1000.0.png" alt="Carmen Sandiego móvil" wwidth="500" height="500"/></div> 
-<br>
+<div class="col-5" align="center"><img src="https://cdn.vox-cdn.com/thumbor/FpgJzDQeHKHlhn4iVeV2pc6xGPM=/0x0:1821x1124/920x613/filters:focal(766x417:1056x707):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63230643/Carmen_Game.max_1000x1000.0.png" alt="Carmen Sandiego móvil" wwidth="500" height="500"/></div> 
 
-<div class="col-5" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2019/03/sshot-101-730x473.jpg" alt="Carmen Sandiego web" wwidth="500" height="500"/></div> 
+<div class="col-6" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2019/03/sshot-101-730x473.jpg" alt="Carmen Sandiego web" wwidth="500" height="500"/></div> 
 <br>
 
 Desconocía el juego, pero lo he probado y me ha encantado, obviamente no tiene un gran nivel de complejidad, pero es interesante. Con el ritmo de evolución de los medios que llevamos quién sabe si en unos años las preguntas sobre geografía las realiza un bot lo suficientemente avanzado para poder generar una experiencia/aventura única para cada usuario en función de la edad. Sería una gran hibridación.
-
 <br>
+
 ## Caso 2: iNaturalist
 
 iNaturalist es un caso de hibridación, concretamente de un mashup de datos, que crea nuevos servicios combinando datos de más de una fuente (Google Maps, Catálogo de la Vida, uBio, Flickr, Wikimedia Commons…) generando un valor añadido con una interfaz bastante simplificada. 
@@ -72,7 +69,7 @@ El funcionamiento es el siguiente:
 Los usuarios suben fotografías o grabaciones de las especies que localizan y la localización exacta mediante las coordenadas del GPS, o también pueden añadir observaciones a la información existente. Esta información queda a disposición de la comunidad científica para su análisis y de los ciudadanos para su consulta. Las consultas se pueden realizar tanto por el nombre concreto de la especie, por su taxonomía como por localización.
 
 <br>
-<div class="col-6" align="center"><img src="https://play-lh.googleusercontent.com/_KlWMsPo7uuQMX1bvtGI6ipR5IMBhleeRbgVFRHmYw2BYW2ZA1zyfBSe7WMCWpsvAKQ=w1536-h754-rw" alt="Búsqueda" wwidth="400" height="400"/><img src="https://play-lh.googleusercontent.com/RKfIFRUctRiEpuvhSe5IK0_ugJJokyQ3ls-jlgLxZ9abWogtWXpX25czshVr3t7lM3c=w1536-h754-rw" alt="Observaciones" wwidth="400" height="400"/><img src="https://play-lh.googleusercontent.com/yP6Pp5xnnln5q8Fv97_v6eLJ4z7UHda5M5DcaZFSyPul8iIJun-XD5xqIZE_Noo28A=w1536-h754-rw" alt="Mapa" wwidth="400" height="400"/></div> 
+<div class="col-7" align="center"><img src="https://play-lh.googleusercontent.com/_KlWMsPo7uuQMX1bvtGI6ipR5IMBhleeRbgVFRHmYw2BYW2ZA1zyfBSe7WMCWpsvAKQ=w1536-h754-rw" alt="Búsqueda" wwidth="400" height="400"/><img src="https://play-lh.googleusercontent.com/RKfIFRUctRiEpuvhSe5IK0_ugJJokyQ3ls-jlgLxZ9abWogtWXpX25czshVr3t7lM3c=w1536-h754-rw" alt="Observaciones" wwidth="400" height="400"/><img src="https://play-lh.googleusercontent.com/yP6Pp5xnnln5q8Fv97_v6eLJ4z7UHda5M5DcaZFSyPul8iIJun-XD5xqIZE_Noo28A=w1536-h754-rw" alt="Mapa" wwidth="400" height="400"/></div> 
 <br>
 
 Si se quiere realizar la observación de un área determinada, se puede crear un proyecto en el que se defina el lugar. Si ya existe, pues se utiliza la delimitación existente, pero si no existe se puede crear lo que denominan “polígono”, que es delimitar un área para estudio. Y para ese proyecto se suben las fotografías y las grabaciones. El proyecto también queda a disposición tanto de la comunidad científica como de los ciudadanos para su consulta. 
@@ -80,7 +77,7 @@ Si se quiere realizar la observación de un área determinada, se puede crear un
 Además, dispone de una aplicación para dispositivos móviles denominada Seek, mediante la cual, el usuario escanea con su cámara una especie (por ejemplo: una planta o un animal) y retorna toda la información disponible al respecto, tanto las fotografías, grabaciones, como la información extraída de las bases de datos documentales a las que recurre iNaturalist, como el mapa con las localizaciones exactas dónde se ha observado. 
 
 <br>
-<div class="col-7" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2018/03/sshot-90-730x506.jpg" alt="Aplicación Seek" wwidth="400" height="400"/></div>
+<div class="col-8" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2018/03/sshot-90-730x506.jpg" alt="Aplicación Seek" wwidth="400" height="400"/></div>
 <br>
 
 Seek utiliza algoritmos bastante precisos de IA para localizar la especie en sus bases de datos partiendo de la imagen escaneada. Como nos comenta Manovich, esto es posible por las nuevas estructuras de datos que estamos usando, en nuestro caso las imágenes se estructuran en píxeles y los algoritmos operan sobre la cuadricula de píxeles (mapa de bits). Esta técnica de manipulación de datos no tiene equivalente en los medios físicos (fotografías, grabaciones…).
@@ -90,11 +87,12 @@ La búsqueda de imágenes con IA hasta ahora funcionaba sólo para imágenes y l
 En este caso la estética del medio nos lleva a ver la yuxtaposición de las imágenes de las especies, de los comentarios de los usuarios, de los mapas donde se han realizado las observaciones, todo presentado al mismo tiempo al usuario en un mismo espacio y disponible para ser consultado. 
 
 <br>
-<div class="col-8" align="center"><img src="https://clasico.difusionnorte.com/wp-content/uploads/2018/12/WhatsApp-Image-2018-12-11-at-9.23.47-AM.jpeg" alt="Web iNaturalista" wwidth="400" height="400"/></div> 
+<div class="col-9" align="center"><img src="https://clasico.difusionnorte.com/wp-content/uploads/2018/12/WhatsApp-Image-2018-12-11-at-9.23.47-AM.jpeg" alt="Web iNaturalista" wwidth="400" height="400"/></div> 
 <br>
 
 En definitiva, desconocía esta aplicación, pero después de mi investigación puedo afirmar que iNaturalist es muy sencilla de manejar, con multitud de herramientas y que maneja una enorme cantidad de datos. Es un buen ejemplo de mashup de datos.
 
+<br> 
 
 ### Referencias y Bibliografía
 
