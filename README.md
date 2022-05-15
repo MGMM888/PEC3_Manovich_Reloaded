@@ -31,6 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
             </div>  
             
 
+
 ## Caso 2: iNaturalist
 
 iNaturalist es un caso de hibridación, concretamente de un mashup de datos, que crea nuevos servicios combinando datos de más de una fuente (Google Maps, Catálogo de la Vida, uBio, Flickr, Wikimedia Commons…) generando un valor añadido con una interfaz bastante simplificada. 
@@ -42,11 +43,14 @@ Los usuarios suben fotografías o grabaciones de las especies que localizan y la
 
 <div class="col-3" align="center"><img src="https://play-lh.googleusercontent.com/_KlWMsPo7uuQMX1bvtGI6ipR5IMBhleeRbgVFRHmYw2BYW2ZA1zyfBSe7WMCWpsvAKQ=w1536-h754-rw" alt="Búsqueda" wwidth="400" height="400"/><img src="https://play-lh.googleusercontent.com/RKfIFRUctRiEpuvhSe5IK0_ugJJokyQ3ls-jlgLxZ9abWogtWXpX25czshVr3t7lM3c=w1536-h754-rw" alt="Observaciones" wwidth="400" height="400"/><img src="https://play-lh.googleusercontent.com/yP6Pp5xnnln5q8Fv97_v6eLJ4z7UHda5M5DcaZFSyPul8iIJun-XD5xqIZE_Noo28A=w1536-h754-rw" alt="Mapa" wwidth="400" height="400"/></div> 
 
+
 Si se quiere realizar la observación de un área determinada, se puede crear un proyecto en el que se defina el lugar. Si ya existe, pues se utiliza la delimitación existente, pero si no existe se puede crear lo que denominan “polígono”, que es delimitar un área para estudio. Y para ese proyecto se suben las fotografías y las grabaciones. El proyecto también queda a disposición tanto de la comunidad científica como de los ciudadanos para su consulta. 
 
 Además, dispone de una aplicación para dispositivos móviles denominada Seek, mediante la cual, el usuario escanea con su cámara una especie (por ejemplo: una planta o un animal) y retorna toda la información disponible al respecto, tanto las fotografías, grabaciones, como la información extraída de las bases de datos documentales a las que recurre iNaturalist, como el mapa con las localizaciones exactas dónde se ha observado. 
 
+
 <div class="col-4" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2018/03/sshot-90-730x506.jpg" alt="Aplicación Seek" wwidth="400" height="400"/></div>
+
 
 Seek utiliza algoritmos bastante precisos de IA para localizar la especie en sus bases de datos partiendo de la imagen escaneada. Como nos comenta Manovic, esto es posible por las nuevas estructuras de datos que estamos usando, en nuestro caso las imágenes se estructuran en píxeles y los algoritmos operan sobre la cuadricula de píxeles (mapa de bits). Esta técnica de manipulación de datos no tiene equivalente en los medios físicos (fotografías, grabaciones…).
 
@@ -54,7 +58,11 @@ La búsqueda de imágenes con IA hasta ahora funcionaba sólo para imágenes y l
 
 En este caso la estética del medio nos lleva a ver la yuxtaposición de las imágenes de las especies, de los comentarios de los usuarios, de los mapas donde se han realizado las observaciones, todo presentado al mismo tiempo al usuario en un mismo espacio y disponible para ser consultado. 
 
+
 <div class="col-2" align="center"><img src="https://clasico.difusionnorte.com/wp-content/uploads/2018/12/WhatsApp-Image-2018-12-11-at-9.23.47-AM.jpeg" alt="Web iNaturalista" wwidth="400" height="400"/></div> 
+
+
+En definitiva, iNaturalist es una aplicación muy sencilla de manejar, con multitud de herramientas y que maneja una enorme cantidad de datos. Es un buen ejemplo de mashup de datos.
 
 
 ### Referencias y Bibliografía
