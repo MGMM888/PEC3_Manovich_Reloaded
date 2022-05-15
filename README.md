@@ -27,7 +27,7 @@ La experiencia de usar cada uno de ellos por separado no será la misma que util
 
 "Carmen Sandiego" es un videojuego educativo para primaria cuyo objetivo original era enseñar conceptos básicos de geografía y cuya protagonista es la propioa Carmen. Y en 2019 lanzó una versión para Google Earth. Estaríamos ante una hibridación entre un producto gráfico, el videojuego, y un sistema de información geográfica, Google Earth.
 
-Carmen Sandiego es un personaje de videojuego, caracterizada por ir vestida con gabardina y sombrero rojos y que en su origen era una ladrona de guante blanco. El jugador es un detective que debe atrapar a Carmen y para ello visita la ciudad donde se ha producido el robo y debe resolver las pistas que se le presentan. 
+Carmen Sandiego es un personaje de videojuego, caracterizada por ir vestida con abrigo y sombrero rojos y que en su origen era una ladrona de guante blanco. El jugador es un detective que debe atrapar a Carmen y para ello visita la ciudad donde se ha producido el robo y debe resolver las pistas que se le presentan. 
 
 
 <div class="col-2" align="center"><img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="Carmencita" wwidth="400" height="400"/></div> 
@@ -42,7 +42,7 @@ El objetivo de la propuesta continúa siendo la original, un juego educativo de 
 
 
 
-<div class="col-2" align="center"><img src="https://cdn.vox-cdn.com/thumbor/FpgJzDQeHKHlhn4iVeV2pc6xGPM=/0x0:1821x1124/920x613/filters:focal(766x417:1056x707):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63230643/Carmen_Game.max_1000x1000.0.png" alt="Carmen Sandiego móvil" wwidth="400" height="400"/></div> 
+<div class="col-2" align="center"><img src="https://cdn.vox-cdn.com/thumbor/FpgJzDQeHKHlhn4iVeV2pc6xGPM=/0x0:1821x1124/920x613/filters:focal(766x417:1056x707):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63230643/Carmen_Game.max_1000x1000.0.png" alt="Carmen Sandiego móvil" wwidth="500" height="500"/></div> 
 
 
 
