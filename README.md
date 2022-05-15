@@ -52,7 +52,7 @@ Además, dispone de una aplicación para dispositivos móviles denominada Seek, 
 <div class="col-4" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2018/03/sshot-90-730x506.jpg" alt="Aplicación Seek" wwidth="400" height="400"/></div>
 
 
-Seek utiliza algoritmos bastante precisos de IA para localizar la especie en sus bases de datos partiendo de la imagen escaneada. Como nos comenta Manovic, esto es posible por las nuevas estructuras de datos que estamos usando, en nuestro caso las imágenes se estructuran en píxeles y los algoritmos operan sobre la cuadricula de píxeles (mapa de bits). Esta técnica de manipulación de datos no tiene equivalente en los medios físicos (fotografías, grabaciones…).
+Seek utiliza algoritmos bastante precisos de IA para localizar la especie en sus bases de datos partiendo de la imagen escaneada. Como nos comenta Manovich, esto es posible por las nuevas estructuras de datos que estamos usando, en nuestro caso las imágenes se estructuran en píxeles y los algoritmos operan sobre la cuadricula de píxeles (mapa de bits). Esta técnica de manipulación de datos no tiene equivalente en los medios físicos (fotografías, grabaciones…).
 
 La búsqueda de imágenes con IA hasta ahora funcionaba sólo para imágenes y la búsqueda de sonido sólo para sonido, pero en la actualidad Google Fotos ya tiene la búsqueda de imágenes por el texto incluido en la misma imagen. Ya hemos ido un paso más allá.
 
