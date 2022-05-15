@@ -40,10 +40,16 @@ Google Earth incorpora una representación de la Tierra en formato tridimensiona
 
 El objetivo de la propuesta continúa siendo la original, un juego educativo de geografía en el que el jugador viaja por el mundo a la captura de un ladrón y resolviendo pistas sobre geografía, pero esta vez Carmen no es la ladrona, sino que colabora con el usuario en la captura del verdadero ladrón.
 
+Esta fusión del videojuego y el globo virtual de Google Earth se nos presenta como una hibridación de interfaz. En las primeras imágenes del juego se nos muestra el globo virtual integrado. El usuario debe responder la pista y escoger una ciudad a la que viajar tras el ladrón. Al escoger la ciudad, el globo se moviliza y nos lleva mediante aproximación a la ciudad escogida. 
 
+A este movimiento del globo se le aplica la técnica de animación Google Earth Studio, en la que utilizan las imágenes en 2D y 3D que tiene en su base de datos para simular el movimiento del globo y los acercamientos y alejamientos de las localizaciones. Esta técnica es una novedad respecto al videojuego original en el que la Tierra era un mapa plano. 
+
+En el caso de esta hibridación, en la estética del medio queda patente la yuxtaposición de las imágenes de Google Earth y las del videojuego, quedando la pantalla dividida prácticamente a la mitad, siendo que ambas herramientas ocupan cada una su mitad. 
+En cuanto al videojuego se utilizan técnicas y herramientas actuales pero manteniendo la estética del juego original. 
 
 <div class="col-2" align="center"><img src="https://cdn.vox-cdn.com/thumbor/FpgJzDQeHKHlhn4iVeV2pc6xGPM=/0x0:1821x1124/920x613/filters:focal(766x417:1056x707):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63230643/Carmen_Game.max_1000x1000.0.png" alt="Carmen Sandiego móvil" wwidth="500" height="500"/></div> 
 
+Desconocía el juego, pero lo he probado y me ha encantado, obviamente no tiene un gran nivel de complejidad, pero es interesante. Con el ritmo de evolución de los medios que llevamos quién sabe si en unos años las preguntas sobre geografía las realiza un bot lo suficientemente avanzado para poder generar una experiencia/aventura única para cada usuario en función de la edad. Sería una gran hibridación.
 
 
 
@@ -78,7 +84,7 @@ En este caso la estética del medio nos lleva a ver la yuxtaposición de las im�
 <div class="col-2" align="center"><img src="https://clasico.difusionnorte.com/wp-content/uploads/2018/12/WhatsApp-Image-2018-12-11-at-9.23.47-AM.jpeg" alt="Web iNaturalista" wwidth="400" height="400"/></div> 
 
 
-En definitiva, iNaturalist es una aplicación muy sencilla de manejar, con multitud de herramientas y que maneja una enorme cantidad de datos. Es un buen ejemplo de mashup de datos.
+En definitiva, desconocía esta aplicación, pero después de mi investigación puedo afirmar que iNaturalist es muy sencilla de manejar, con multitud de herramientas y que maneja una enorme cantidad de datos. Es un buen ejemplo de mashup de datos.
 
 
 ### Referencias y Bibliografía
