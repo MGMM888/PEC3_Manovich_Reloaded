@@ -65,6 +65,8 @@ En este caso la estética del medio nos lleva a ver la yuxtaposición de las im�
 
 * Medium (2018). **Los nuevos medios — Manovic explica la evolución de la computadora hacia sus orígenes**  https://medium.com/@rodrigo.rebagliati/los-nuevos-medios-manovic-explica-la-evoluci%C3%B3n-de-la-computadora-hacia-sus-or%C3%ADgenes-788fde58d458 
 
+* https://earth.google.com/web/@17.90693717,-12.41937117,-34606.6327455a,57359668.97d,35y,0.00004064h,18.19296234t,0r/data=CjwSOhIgYmU3N2ZmYzU0MTc1MTFlOGFlOGZkMzdkYTU5MmE0MmEiFnNwbC14LXgteC1zcGxhc2hzY3JlZW4
+
 * **Carmen Sandiego** (Wikipedia), Recuperado el 13 d eenero de 2022, de https://es.wikipedia.org/wiki/Carmen_Sandiego#Where_on_Earth_Is_Carmen_Sandiego?
 
 * **Google Earth** (Wikipedia), Recuperado el 27 de abril de 2022, de https://en.wikipedia.org/wiki/Google_Earth
