@@ -42,6 +42,10 @@ El objetivo de la propuesta continúa siendo la original, un juego educativo de 
 
 Esta fusión del videojuego y el globo virtual de Google Earth se nos presenta como una hibridación de interfaz. En las primeras imágenes del juego se nos muestra el globo virtual integrado. El usuario debe responder la pista y escoger una ciudad a la que viajar tras el ladrón. Al escoger la ciudad, el globo se moviliza y nos lleva mediante aproximación a la ciudad escogida. 
 
+
+<div class="col-3" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2019/03/sshot-81-730x427.jpg" alt="Carmen Sandiego globo virtual" wwidth="400" height="400"/></div> 
+
+
 A este movimiento del globo se le aplica la técnica de animación Google Earth Studio, en la que utilizan las imágenes en 2D y 3D que tiene en su base de datos para simular el movimiento del globo y los acercamientos y alejamientos de las localizaciones. Esta técnica es una novedad respecto al videojuego original en el que la Tierra era un mapa plano. 
 
 En el caso de esta hibridación, en la estética del medio queda patente la yuxtaposición de las imágenes de Google Earth y las del videojuego, quedando la pantalla dividida prácticamente a la mitad, siendo que ambas herramientas ocupan cada una su mitad. 
@@ -49,7 +53,7 @@ En cuanto al videojuego se utilizan técnicas y herramientas actuales pero mante
 
 <div class="col-4" align="center"><img src="https://cdn.vox-cdn.com/thumbor/FpgJzDQeHKHlhn4iVeV2pc6xGPM=/0x0:1821x1124/920x613/filters:focal(766x417:1056x707):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63230643/Carmen_Game.max_1000x1000.0.png" alt="Carmen Sandiego móvil" wwidth="500" height="500"/></div> 
 
-<div class="col-5" align="center"><img src="https://earth.google.com/web/@-22.952666,-43.199636,67a,27974d,35y,24h,53t,0r/data=CkcSRRIgYmU3N2ZmYzU0MTc1MTFlOGFlOGZkMzdkYTU5MmE0MmEiIWN0eS0xLTMtMi1mcm9tLXRva3lvLS0yLXRvLXJpby0tMw" alt="Carmen Sandiego web" wwidth="500" height="500"/></div> 
+<div class="col-5" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2019/03/sshot-101-730x473.jpg" alt="Carmen Sandiego web" wwidth="500" height="500"/></div> 
 
 Desconocía el juego, pero lo he probado y me ha encantado, obviamente no tiene un gran nivel de complejidad, pero es interesante. Con el ritmo de evolución de los medios que llevamos quién sabe si en unos años las preguntas sobre geografía las realiza un bot lo suficientemente avanzado para poder generar una experiencia/aventura única para cada usuario en función de la edad. Sería una gran hibridación.
 
@@ -101,7 +105,11 @@ En definitiva, desconocía esta aplicación, pero después de mi investigación 
 
 * The Verge (2019) . **Now you can try to catch Carmen Sandiego in Google Earth** https://www.theverge.com/2019/3/13/18263754/google-earth-carmen-sandiego-where-in-the-world
 
-* **Google Earth** (Wikipedia), Recuperado el 27 de abril de 2022, de https://en.wikipedia.org/wiki/Google_Earth
+* Whatsnew (2019). **ASÍ ES EL JUEGO DE CARMEN SANDIEGO EN GOOGLE EARTH** https://wwwhatsnew.com/2019/03/14/asi-es-el-juego-de-carmen-sandiego-en-google-earth/
+
+* El robo de las joyas de la corona [En línea]. Disponible en: https://earth.google.com/web/@17.90693717,-12.41937117,-34606.6327455a,57359668.97d,35y,0.00004064h,18.19296234t,0r/data=CjwSOhIgYmU3N2ZmYzU0MTc1MTFlOGFlOGZkMzdkYTU5MmE0MmEiFnNwbC14LXgteC1zcGxhc2hzY3JlZW4
+
+* Google Earth Studio [En línea]. Disponible en: https://earth.google.com/studio/docs/es/tutorials/
 
 * iNaturalist [En línea]. Disponible en: https://www.inaturalist.org
 
