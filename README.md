@@ -13,9 +13,8 @@ Fecha: 15-11-2022
 
 ![CarmenSanDiego](https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR)
 img[alt="CarmenSanDiego"] { 
-  max-width:  20px;
+  max-width:  10px;
   text-align center;
-  display: block;
 }
 
 <img src="https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR" alt="drawing" wwidth="300" height="300"/>
