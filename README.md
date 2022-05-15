@@ -71,13 +71,8 @@ En este caso la estética del medio nos lleva a ver la yuxtaposición de las im�
 
 * iNaturalist [En línea]. Disponible en: https://www.inaturalist.org
 
-* **iNaturalist** (Wikipedia), Recuperado el 15 de enero de 2022, de https://es.wikipedia.org/wiki/INaturalist
-
 * Difusión Norte (2018). **NaturaLista, itoma fotos de especies silvestres y ayuda a identificarlas!** https://clasico.difusionnorte.com/naturalista-app/
 
 * About [En línea]. Disponible en: https://github.com
 
 * **Sintaxis Markdown**. Recuperado el 15 de mayo de 2022, de https://markdown.es/sintaxis-markdown/
-----
-
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
