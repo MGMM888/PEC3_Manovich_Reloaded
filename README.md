@@ -40,7 +40,7 @@ Google Earth incorpora una representación de la Tierra en formato tridimensiona
 
 El objetivo de la propuesta continúa siendo la original, un juego educativo de geografía en el que el jugador viaja por el mundo a la captura de un ladrón y resolviendo pistas sobre geografía, pero esta vez Carmen no es la ladrona, sino que colabora con el usuario en la captura del verdadero ladrón.
 
-Esta fusión del videojuego y el globo virtual de Google Earth se nos presenta como una hibridación de interfaz. En las primeras imágenes del juego se nos muestra el globo virtual integrado. El usuario debe responder la pista y escoger una ciudad a la que viajar tras el ladrón. Al escoger la ciudad, el globo se moviliza y nos lleva mediante aproximación a la ciudad escogida. 
+Esta fusión del videojuego y el globo virtual de Google Earth se nos presenta como una hibridación de interfaz. En las primeras imágenes del juego se nos muestra el globo virtual integrado con la estética del juego. El usuario debe responder la pista y escoger una ciudad a la que viajar tras el ladrón. Al escoger la ciudad, el globo se moviliza y nos lleva mediante aproximación a la ciudad escogida. 
 
 
 <div class="col-3" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2019/03/sshot-81-730x427.jpg" alt="Carmen Sandiego globo virtual" wwidth="400" height="400"/></div> 
