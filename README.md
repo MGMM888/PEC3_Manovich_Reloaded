@@ -62,8 +62,11 @@ En este caso la estética del medio nos lleva a ver la yuxtaposición de las im�
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
- 
+ * ADELL, Ferran. Remediación, multimedia e hibridación de los medios [en línea]. Blog de la asignatura Fundamentos y evolución de la multimedia del Grado de Multimedia de la Universitat Oberta de Catalunya, 16/04/2014. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/ ↩
 
+* iNaturalist, recuperado el 15 de mayo de 2022, https://www.inaturalist.org
+
+* iNaturalist(Wikipedia), recuperado el 15 de enero de 2022, https://es.wikipedia.org/wiki/INaturalist
 
 ----
 
