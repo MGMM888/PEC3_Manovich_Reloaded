@@ -11,6 +11,10 @@ Fecha: 15-11-2022
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
+
+![HibridacionManovic](https://miro.medium.com/max/1400/0*kih7VlMzi2rzh2WH.jpg )
+
+
 ![CarmenSanDiego](https://miro.medium.com/max/2400/0*9fHc67gNonWKhAqR)
 
 
