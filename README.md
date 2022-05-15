@@ -55,6 +55,7 @@ La búsqueda de imágenes con IA hasta ahora funcionaba sólo para imágenes y l
 
 En este caso la estética del medio nos lleva a ver la yuxtaposición de las imágenes de las especies, de los comentarios de los usuarios, de los mapas donde se han realizado las observaciones, todo presentado al mismo tiempo al usuario en un mismo espacio y disponible para ser consultado. 
 
+<div class="col-2" align="center"><img src="https://clasico.difusionnorte.com/wp-content/uploads/2018/12/WhatsApp-Image-2018-12-11-at-9.23.47-AM.jpeg" alt="Web iNaturalista" wwidth="400" height="400"/></div> 
 
 
 ### Referencias y Bibliografía
