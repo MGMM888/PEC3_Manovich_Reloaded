@@ -47,7 +47,7 @@ Si se quiere realizar la observación de un área determinada, se puede crear un
 
 Además, dispone de una aplicación para dispositivos móviles denominada Seek, mediante la cual, el usuario escanea con su cámara una especie (por ejemplo: una planta o un animal) y retorna toda la información disponible al respecto, tanto las fotografías, grabaciones, como la información extraída de las bases de datos documentales a las que recurre iNaturalist, como el mapa con las localizaciones exactas dónde se ha observado. 
 
-<div class="col-4" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2018/03/sshot-90-730x506.jpg" alt="Aplicación Seek" wwidth="300" height="300"/></div>
+<div class="col-4" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2018/03/sshot-90-730x506.jpg" alt="Aplicación Seek" wwidth="400" height="400"/></div>
 
 Seek utiliza algoritmos bastante precisos de IA para localizar la especie en sus bases de datos partiendo de la imagen escaneada. Como nos comenta Manovic, esto es posible por las nuevas estructuras de datos que estamos usando, en nuestro caso las imágenes se estructuran en píxeles y los algoritmos operan sobre la cuadricula de píxeles (mapa de bits). Esta técnica de manipulación de datos no tiene equivalente en los medios físicos (fotografías, grabaciones…).
 
