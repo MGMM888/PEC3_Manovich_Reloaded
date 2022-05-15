@@ -15,7 +15,12 @@ Fecha: 15-11-2022
 ## Planteamiento
 
 
-La hibridación implica que tanto los componentes que integran las técnicas de software como las interficies se integran de tal forma que gereran un experiencia diferente de la que supondría cada uno de ellos por separado. Así, vamos a analizar dos casos de hibridación: el juego titulado "Carmen Sandiego - El robo de las joyas de la corona" con Google Earth y la aplicación iNaturalist que integra Google Maps, además de otras bases de datos y herramientas. 
+La hibridación implica que, tanto los componentes que integran las técnicas de software como las interficies, se integran de tal forma que gereran un experiencia  diferente de la que supondría cada uno de ellos por separado. Así, vamos a analizar dos casos de hibridación: 
+
+* el juego titulado "Carmen Sandiego - El robo de las joyas de la corona" con Google Earth.
+* la aplicación iNaturalist que integra Google Maps, además de otras bases de datos y herramientas. 
+
+La experiencia de usar cada uno de ellos por separado no será la misma que utilizándolos cada uno por separado. 
 
 
 ## Caso 1: Carmen Sandiego - El robo de las joyas de la corona
