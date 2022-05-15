@@ -62,12 +62,17 @@ En este caso la estética del medio nos lleva a ver la yuxtaposición de las im�
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
- * ADELL, Ferran. Remediación, multimedia e hibridación de los medios [en línea]. Blog de la asignatura Fundamentos y evolución de la multimedia del Grado de Multimedia de la Universitat Oberta de Catalunya, 16/04/2014. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/ ↩
+* ADELL, Ferran. **Remediación, multimedia e hibridación de los medios** [en línea]. Blog de la asignatura Fundamentos y evolución de la multimedia del Grado de Multimedia de la Universitat Oberta de Catalunya, 16/04/2014. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/ ↩
 
-* iNaturalist, recuperado el 15 de mayo de 2022, https://www.inaturalist.org
+* Medium (2018). **Los nuevos medios — Manovic explica la evolución de la computadora hacia sus orígenes**  https://medium.com/@rodrigo.rebagliati/los-nuevos-medios-manovic-explica-la-evoluci%C3%B3n-de-la-computadora-hacia-sus-or%C3%ADgenes-788fde58d458 
 
-* iNaturalist(Wikipedia), recuperado el 15 de enero de 2022, https://es.wikipedia.org/wiki/INaturalist
+* iNaturalist, Recuperado el 15 de mayo de 2022, de https://www.inaturalist.org
 
+* iNaturalist (Wikipedia), Recuperado el 15 de enero de 2022, de https://es.wikipedia.org/wiki/INaturalist
+
+* Difusión Norte (2018). **NaturaLista, itoma fotos de especies silvestres y ayuda a identificarlas!** https://clasico.difusionnorte.com/naturalista-app/
+
+* **Sintaxis Markdown**. Recuperado el 15 de mayo de 2022, de https://markdown.es/sintaxis-markdown/
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
