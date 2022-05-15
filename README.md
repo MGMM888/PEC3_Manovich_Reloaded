@@ -35,7 +35,7 @@ Carmen Sandiego es un personaje de videojuego, caracterizada por ir vestida con 
 
 Google Earth incorpora una representación de la Tierra en formato tridimensional, denominada globo virtual, que proporciona al usuario la capacidad de moverse libremente en el entorno virtual simplemente moviendo el cursor por el globo. Además, posee la función “Voyager”, dónde puedes descubrir historias sobre lugares concretos o participar en pequeños juegos (cuestionarios breves y trivial) Y es aquí dónde nos encontramos con “Carmen Sandiego” y su serie de tres juegos, siendo “El robo de las joyas de la corona” el primero de ellos.
 
-<div class="col-2" align="center"><img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2020/02/ha-costado-anos-pero-ya-puedes-usar-google-earth-cualquier-navegador-menos-1879495.jpg?itok=IBnhvJ1P" alt="Google Earth" wwidth="400" height="400"/></div> 
+<div class="col-3" align="center"><img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2020/02/ha-costado-anos-pero-ya-puedes-usar-google-earth-cualquier-navegador-menos-1879495.jpg?itok=IBnhvJ1P" alt="Google Earth" wwidth="400" height="400"/></div> 
 
 
 El objetivo de la propuesta continúa siendo la original, un juego educativo de geografía en el que el jugador viaja por el mundo a la captura de un ladrón y resolviendo pistas sobre geografía, pero esta vez Carmen no es la ladrona, sino que colabora con el usuario en la captura del verdadero ladrón.
@@ -47,7 +47,9 @@ A este movimiento del globo se le aplica la técnica de animación Google Earth 
 En el caso de esta hibridación, en la estética del medio queda patente la yuxtaposición de las imágenes de Google Earth y las del videojuego, quedando la pantalla dividida prácticamente a la mitad, siendo que ambas herramientas ocupan cada una su mitad. 
 En cuanto al videojuego se utilizan técnicas y herramientas actuales pero manteniendo la estética del juego original. 
 
-<div class="col-2" align="center"><img src="https://cdn.vox-cdn.com/thumbor/FpgJzDQeHKHlhn4iVeV2pc6xGPM=/0x0:1821x1124/920x613/filters:focal(766x417:1056x707):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63230643/Carmen_Game.max_1000x1000.0.png" alt="Carmen Sandiego móvil" wwidth="500" height="500"/></div> 
+<div class="col-4" align="center"><img src="https://cdn.vox-cdn.com/thumbor/FpgJzDQeHKHlhn4iVeV2pc6xGPM=/0x0:1821x1124/920x613/filters:focal(766x417:1056x707):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63230643/Carmen_Game.max_1000x1000.0.png" alt="Carmen Sandiego móvil" wwidth="500" height="500"/></div> 
+
+<div class="col-5" align="center"><img src="https://earth.google.com/web/@-22.952666,-43.199636,67a,27974d,35y,24h,53t,0r/data=CkcSRRIgYmU3N2ZmYzU0MTc1MTFlOGFlOGZkMzdkYTU5MmE0MmEiIWN0eS0xLTMtMi1mcm9tLXRva3lvLS0yLXRvLXJpby0tMw" alt="Carmen Sandiego web" wwidth="500" height="500"/></div> 
 
 Desconocía el juego, pero lo he probado y me ha encantado, obviamente no tiene un gran nivel de complejidad, pero es interesante. Con el ritmo de evolución de los medios que llevamos quién sabe si en unos años las preguntas sobre geografía las realiza un bot lo suficientemente avanzado para poder generar una experiencia/aventura única para cada usuario en función de la edad. Sería una gran hibridación.
 
@@ -63,7 +65,7 @@ El funcionamiento es el siguiente:
 Los usuarios suben fotografías o grabaciones de las especies que localizan y la localización exacta mediante las coordenadas del GPS, o también pueden añadir observaciones a la información existente. Esta información queda a disposición de la comunidad científica para su análisis y de los ciudadanos para su consulta. Las consultas se pueden realizar tanto por el nombre concreto de la especie, por su taxonomía como por localización.
 
 
-<div class="col-3" align="center"><img src="https://play-lh.googleusercontent.com/_KlWMsPo7uuQMX1bvtGI6ipR5IMBhleeRbgVFRHmYw2BYW2ZA1zyfBSe7WMCWpsvAKQ=w1536-h754-rw" alt="Búsqueda" wwidth="400" height="400"/><img src="https://play-lh.googleusercontent.com/RKfIFRUctRiEpuvhSe5IK0_ugJJokyQ3ls-jlgLxZ9abWogtWXpX25czshVr3t7lM3c=w1536-h754-rw" alt="Observaciones" wwidth="400" height="400"/><img src="https://play-lh.googleusercontent.com/yP6Pp5xnnln5q8Fv97_v6eLJ4z7UHda5M5DcaZFSyPul8iIJun-XD5xqIZE_Noo28A=w1536-h754-rw" alt="Mapa" wwidth="400" height="400"/></div> 
+<div class="col-6" align="center"><img src="https://play-lh.googleusercontent.com/_KlWMsPo7uuQMX1bvtGI6ipR5IMBhleeRbgVFRHmYw2BYW2ZA1zyfBSe7WMCWpsvAKQ=w1536-h754-rw" alt="Búsqueda" wwidth="400" height="400"/><img src="https://play-lh.googleusercontent.com/RKfIFRUctRiEpuvhSe5IK0_ugJJokyQ3ls-jlgLxZ9abWogtWXpX25czshVr3t7lM3c=w1536-h754-rw" alt="Observaciones" wwidth="400" height="400"/><img src="https://play-lh.googleusercontent.com/yP6Pp5xnnln5q8Fv97_v6eLJ4z7UHda5M5DcaZFSyPul8iIJun-XD5xqIZE_Noo28A=w1536-h754-rw" alt="Mapa" wwidth="400" height="400"/></div> 
 
 
 Si se quiere realizar la observación de un área determinada, se puede crear un proyecto en el que se defina el lugar. Si ya existe, pues se utiliza la delimitación existente, pero si no existe se puede crear lo que denominan “polígono”, que es delimitar un área para estudio. Y para ese proyecto se suben las fotografías y las grabaciones. El proyecto también queda a disposición tanto de la comunidad científica como de los ciudadanos para su consulta. 
@@ -71,7 +73,7 @@ Si se quiere realizar la observación de un área determinada, se puede crear un
 Además, dispone de una aplicación para dispositivos móviles denominada Seek, mediante la cual, el usuario escanea con su cámara una especie (por ejemplo: una planta o un animal) y retorna toda la información disponible al respecto, tanto las fotografías, grabaciones, como la información extraída de las bases de datos documentales a las que recurre iNaturalist, como el mapa con las localizaciones exactas dónde se ha observado. 
 
 
-<div class="col-4" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2018/03/sshot-90-730x506.jpg" alt="Aplicación Seek" wwidth="400" height="400"/></div>
+<div class="col-7" align="center"><img src="https://wwwhatsnew.com/wp-content/uploads/2018/03/sshot-90-730x506.jpg" alt="Aplicación Seek" wwidth="400" height="400"/></div>
 
 
 Seek utiliza algoritmos bastante precisos de IA para localizar la especie en sus bases de datos partiendo de la imagen escaneada. Como nos comenta Manovich, esto es posible por las nuevas estructuras de datos que estamos usando, en nuestro caso las imágenes se estructuran en píxeles y los algoritmos operan sobre la cuadricula de píxeles (mapa de bits). Esta técnica de manipulación de datos no tiene equivalente en los medios físicos (fotografías, grabaciones…).
@@ -81,7 +83,7 @@ La búsqueda de imágenes con IA hasta ahora funcionaba sólo para imágenes y l
 En este caso la estética del medio nos lleva a ver la yuxtaposición de las imágenes de las especies, de los comentarios de los usuarios, de los mapas donde se han realizado las observaciones, todo presentado al mismo tiempo al usuario en un mismo espacio y disponible para ser consultado. 
 
 
-<div class="col-2" align="center"><img src="https://clasico.difusionnorte.com/wp-content/uploads/2018/12/WhatsApp-Image-2018-12-11-at-9.23.47-AM.jpeg" alt="Web iNaturalista" wwidth="400" height="400"/></div> 
+<div class="col-8" align="center"><img src="https://clasico.difusionnorte.com/wp-content/uploads/2018/12/WhatsApp-Image-2018-12-11-at-9.23.47-AM.jpeg" alt="Web iNaturalista" wwidth="400" height="400"/></div> 
 
 
 En definitiva, desconocía esta aplicación, pero después de mi investigación puedo afirmar que iNaturalist es muy sencilla de manejar, con multitud de herramientas y que maneja una enorme cantidad de datos. Es un buen ejemplo de mashup de datos.
