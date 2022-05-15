@@ -69,7 +69,7 @@ En este caso la estética del medio nos lleva a ver la yuxtaposición de las im�
 
 * **Google Earth** (Wikipedia), Recuperado el 27 de abril de 2022, de https://en.wikipedia.org/wiki/Google_Earth
 
-* iNaturalist, Recuperado el 15 de mayo de 2022, de https://www.inaturalist.org
+* iNaturalist [En línea]. Disponible en: https://www.inaturalist.org
 
 * **iNaturalist** (Wikipedia), Recuperado el 15 de enero de 2022, de https://es.wikipedia.org/wiki/INaturalist
 
