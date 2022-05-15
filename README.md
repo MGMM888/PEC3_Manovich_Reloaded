@@ -25,7 +25,7 @@ La experiencia de usar cada uno de ellos por separado no será la misma que util
 
 ## Caso 1: Carmen Sandiego - El robo de las joyas de la corona
 
-Carmen Sandiego es un videojuego educativo para primaria cuyo objetivo original era enseñar conceptos básicos de geografía. Y en 2019 lanzó una versión para Google Earth. Estaríamos ante una hibridación entre un producto gráfico, el videojuego, y un sistema de información geográfica, Google Earth, 
+Carmen Sandiego es un videojuego educativo para primaria cuyo objetivo original era enseñar conceptos básicos de geografía. Y en 2019 lanzó una versión para Google Earth. Estaríamos ante una hibridación entre un producto gráfico, el videojuego, y un sistema de información geográfica, Google Earth.
 
 Carmen Sandiego es un personaje de videojuego, caracterizada por ir vestida con gabardina y sombrero rojos y que en su origen era una ladrona de guante blanco. El jugador es un detective que debe atrapar a Carmen y para ello visita la ciudad donde se ha producido el robo y debe resolver las pistas que se le presentan. 
 
